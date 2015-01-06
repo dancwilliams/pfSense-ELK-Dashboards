@@ -576,5 +576,5 @@
     "load_local": true,
     "hide": false
   },
-  "refresh": false
+  "refresh": true
 }
